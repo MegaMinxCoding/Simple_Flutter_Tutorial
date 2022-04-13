@@ -1,4 +1,4 @@
-# math_tester - tutorial project for University of Applied Science Zwickau
+# tutorial project for University of Applied Science Zwickau
 
 Just a simple example project to learn the basics of flutter.
 

@@ -6,8 +6,8 @@ Just a simple example project to learn the basics of flutter.
 
 There are two important files: 
 
-- `main.dart` display the simple view widgets on screen
-- `task.dart` handle the logic part of the caluclator app
+- `lib/main.dart` display the simple view widgets on screen
+- `lib/aufgabe.dart` handle the logical part of the caluclator app
 
 
 

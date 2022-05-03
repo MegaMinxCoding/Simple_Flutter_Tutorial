@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:math_tester/aufgabe.dart';
+import 'package:math_tester/mathTask.dart';
 
 void main() {
   runApp(const MyApp());
@@ -62,7 +62,7 @@ class _MathCalculationState extends State<MathCalculation> {
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
                     Text(widget.task.first.toString(), style: textStyle),
-                    Text(widget.task.getDisplayedOperator(), style: textStyle),
+                    Text(widget.task.getDisplayedOperator, style: textStyle),
                     Text(widget.task.second.toString(), style: textStyle),
                   ],
                 ),
